@@ -28,8 +28,8 @@
 # print(and_counter)
 # print(all_words)
 
-MONTHS = "JanFebMarAprMayJunJulAugSepOctNovDec"
-month_number = int(input('enter month`s number: '))
+# MONTHS = "JanFebMarAprMayJunJulAugSepOctNovDec"
+# month_number = int(input('enter month`s number: '))
 
 
 # exercise 1:
